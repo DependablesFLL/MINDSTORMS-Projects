@@ -1,1 +1,4 @@
-[LEGO MINDSTORMS NXT]FWMajor=0FWMinor=0AvailMemory=0
+[LEGO MINDSTORMS NXT]
+FWMajor=1
+FWMinor=28
+AvailMemory=71592
