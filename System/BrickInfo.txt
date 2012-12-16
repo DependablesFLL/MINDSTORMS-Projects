@@ -1,4 +1,0 @@
-[LEGO MINDSTORMS NXT]
-FWMajor=1
-FWMinor=28
-AvailMemory=71592
